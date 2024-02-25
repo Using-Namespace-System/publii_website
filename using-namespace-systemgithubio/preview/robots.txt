@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///D:\Users\Brian.RC\OneDrive - Cardinal Services, Inc\Documents\Publii\sites\using-namespace-systemgithubio\preview/sitemap.xml

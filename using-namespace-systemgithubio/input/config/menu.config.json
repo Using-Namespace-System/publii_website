@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Main Menu",
+        "position": "",
+        "items": [
+            {
+                "id": 1704829959924,
+                "label": "Home",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]

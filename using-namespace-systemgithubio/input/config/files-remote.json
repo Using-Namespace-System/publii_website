@@ -1,0 +1,377 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "0f12b7a0852fd525cbaa43782ad0477e"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "62223e70863d24ab637335415af9072b"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "6fbb1e8931a5afe843374fd67c192c86"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "b586a3bc288c989ecce7b81b48e35855"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e0c4d53c21e83015f166f4b853f8ade4"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f47c11534595205f20935f0db2a62a85"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "7e9a85339c3ce437aea3e6e2aefa8aeb"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "a4f588d02a5173243813af82b5d5546e"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "38f529a5cfc8469010687b31596e8208"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "edabe9f56104d0896de29bd98c5aa55c"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/brian-recktenwall-calvet",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/brian-recktenwall-calvet/index.html",
+        "type": "file",
+        "md5": "851f13722709ba9e24ef81f5752f5cbf"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b75953ae2d1561cc2ec9b8a9f81d57d0"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "44fb45b7541a4289e7606b7bfb1daab7"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "f33d481822a6d966f369a631f43a8fbc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/sparse_matrix-2xl.png",
+        "type": "file",
+        "md5": "474a19ec63b50f4678786fb89e09affc"
+    },
+    {
+        "path": "/media/posts/2/responsive/sparse_matrix-lg.png",
+        "type": "file",
+        "md5": "474a19ec63b50f4678786fb89e09affc"
+    },
+    {
+        "path": "/media/posts/2/responsive/sparse_matrix-md.png",
+        "type": "file",
+        "md5": "034d1d934dd4152006ce664ab4e56d36"
+    },
+    {
+        "path": "/media/posts/2/responsive/sparse_matrix-sm.png",
+        "type": "file",
+        "md5": "6f31e76c2ceeac342cfe0d062d894e22"
+    },
+    {
+        "path": "/media/posts/2/responsive/sparse_matrix-xl.png",
+        "type": "file",
+        "md5": "474a19ec63b50f4678786fb89e09affc"
+    },
+    {
+        "path": "/media/posts/2/responsive/sparse_matrix-xs.png",
+        "type": "file",
+        "md5": "8f459e759be707f8b3a09c73e68bbb9d"
+    },
+    {
+        "path": "/media/posts/2/sparse_matrix.png",
+        "type": "file",
+        "md5": "139e2e6127dacc712baeeec7aa9ae87f"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/15972706_10209572272237582_6617888217074726293_o.jpg",
+        "type": "file",
+        "md5": "d91fa0c5bc93fb7028b856a25fbf8be7"
+    },
+    {
+        "path": "/media/website/Capture.PNG",
+        "type": "file",
+        "md5": "d880402bbc3b39d4e1325d05724e9ead"
+    },
+    {
+        "path": "/media/website/computer-texture-medium-8.png",
+        "type": "file",
+        "md5": "ce1c8d2ef1759c7919e0a00a2b32be9b"
+    },
+    {
+        "path": "/media/website/favicon-16x16.png",
+        "type": "file",
+        "md5": "deef4e49330fe6b9547b92b42a0c1810"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/15972706_10209572272237582_6617888217074726293_o-2xl.jpg",
+        "type": "file",
+        "md5": "975b39101c77d81b53e9f5f534d614eb"
+    },
+    {
+        "path": "/media/website/responsive/15972706_10209572272237582_6617888217074726293_o-lg.jpg",
+        "type": "file",
+        "md5": "efabfe325a37d0076392e2c7bbfdb067"
+    },
+    {
+        "path": "/media/website/responsive/15972706_10209572272237582_6617888217074726293_o-md.jpg",
+        "type": "file",
+        "md5": "2b810197fc5578e39a742301c5a029b7"
+    },
+    {
+        "path": "/media/website/responsive/15972706_10209572272237582_6617888217074726293_o-sm.jpg",
+        "type": "file",
+        "md5": "e106e5f5b59f368e51d5e49825a13908"
+    },
+    {
+        "path": "/media/website/responsive/15972706_10209572272237582_6617888217074726293_o-xl.jpg",
+        "type": "file",
+        "md5": "3e9c07dce038c1e671b266bb34a1e0a2"
+    },
+    {
+        "path": "/media/website/responsive/15972706_10209572272237582_6617888217074726293_o-xs.jpg",
+        "type": "file",
+        "md5": "4aad8f5fae986b0084b233c9d0a3109b"
+    },
+    {
+        "path": "/media/website/responsive/Capture-2xl.PNG",
+        "type": "file",
+        "md5": "ac7d48574e81e898e6fe078899c7e739"
+    },
+    {
+        "path": "/media/website/responsive/Capture-lg.PNG",
+        "type": "file",
+        "md5": "ac7d48574e81e898e6fe078899c7e739"
+    },
+    {
+        "path": "/media/website/responsive/Capture-md.PNG",
+        "type": "file",
+        "md5": "ac7d48574e81e898e6fe078899c7e739"
+    },
+    {
+        "path": "/media/website/responsive/Capture-sm.PNG",
+        "type": "file",
+        "md5": "ac7d48574e81e898e6fe078899c7e739"
+    },
+    {
+        "path": "/media/website/responsive/Capture-xl.PNG",
+        "type": "file",
+        "md5": "ac7d48574e81e898e6fe078899c7e739"
+    },
+    {
+        "path": "/media/website/responsive/Capture-xs.PNG",
+        "type": "file",
+        "md5": "9c09502aa29038657d2263e874969d25"
+    },
+    {
+        "path": "/media/website/responsive/computer-texture-medium-8-2xl.png",
+        "type": "file",
+        "md5": "dbc7d8eddca053bfd7eb9a1df21098b8"
+    },
+    {
+        "path": "/media/website/responsive/computer-texture-medium-8-lg.png",
+        "type": "file",
+        "md5": "2602647f9eb1704156d8a25b03641f29"
+    },
+    {
+        "path": "/media/website/responsive/computer-texture-medium-8-md.png",
+        "type": "file",
+        "md5": "d852804778570eb07e38ed2feb90a2f6"
+    },
+    {
+        "path": "/media/website/responsive/computer-texture-medium-8-sm.png",
+        "type": "file",
+        "md5": "53ec5b9c078b7aa403677f4548988c11"
+    },
+    {
+        "path": "/media/website/responsive/computer-texture-medium-8-xl.png",
+        "type": "file",
+        "md5": "dbc7d8eddca053bfd7eb9a1df21098b8"
+    },
+    {
+        "path": "/media/website/responsive/computer-texture-medium-8-xs.png",
+        "type": "file",
+        "md5": "ca63c716472f81627c7295d197dce75c"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2xl.png",
+        "type": "file",
+        "md5": "8bd6c6c47e9cc5c7619e808941f7cef4"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-lg.png",
+        "type": "file",
+        "md5": "8bd6c6c47e9cc5c7619e808941f7cef4"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-md.png",
+        "type": "file",
+        "md5": "8bd6c6c47e9cc5c7619e808941f7cef4"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-sm.png",
+        "type": "file",
+        "md5": "8bd6c6c47e9cc5c7619e808941f7cef4"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-xl.png",
+        "type": "file",
+        "md5": "8bd6c6c47e9cc5c7619e808941f7cef4"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-xs.png",
+        "type": "file",
+        "md5": "8bd6c6c47e9cc5c7619e808941f7cef4"
+    },
+    {
+        "path": "natural-language-processing-1-term-document-matrix.html",
+        "type": "file",
+        "md5": "31027d256cbc685a31de7d34d0f4cddf"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "1643e966c9428f64c64e2aae4053b25d"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "e2a0457a55b2801245fb65d1b24d3995"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "bc432627a3ff28366f8828335e611511"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "e8e09525fd7df009d54527688d808f69"
+    },
+    {
+        "path": "test-2.html",
+        "type": "file",
+        "md5": "65921f46d180051d633dbec72647d623"
+    },
+    {
+        "path": "test.html",
+        "type": "file",
+        "md5": "e338ad6fffd891dd668ba852a0e7802f"
+    }
+]
