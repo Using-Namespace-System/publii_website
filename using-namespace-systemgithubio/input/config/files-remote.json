@@ -2,7 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0f12b7a0852fd525cbaa43782ad0477e"
+        "md5": "337eb75f529c32146a4791c5179fcb47"
+    },
+    {
+        "path": "about-me.html",
+        "type": "file",
+        "md5": "0e43133455bb882f1d4185b57b176355"
     },
     {
         "path": "assets",
@@ -107,22 +112,22 @@
     {
         "path": "/authors/brian-recktenwall-calvet/index.html",
         "type": "file",
-        "md5": "851f13722709ba9e24ef81f5752f5cbf"
+        "md5": "1e01a5e45b1e2be24ab76316e924d2d9"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b75953ae2d1561cc2ec9b8a9f81d57d0"
+        "md5": "d407d16056ba1530631da112689fba31"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "44fb45b7541a4289e7606b7bfb1daab7"
+        "md5": "aac6f3b9d6c33fa81a8a6344244029b4"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f33d481822a6d966f369a631f43a8fbc"
+        "md5": "65f19fb28baabe910b9ba8329c93bd83"
     },
     {
         "path": "media",
@@ -178,6 +183,51 @@
         "path": "/media/posts/2/sparse_matrix.png",
         "type": "file",
         "md5": "139e2e6127dacc712baeeec7aa9ae87f"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/175302418_10222315798297769_205315935505955406_n_c.jpg",
+        "type": "file",
+        "md5": "8f7dcf4491d2fe595c30230b2674256c"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-2xl.jpg",
+        "type": "file",
+        "md5": "a19dfa64f034546b4d19ffb314d5c44a"
+    },
+    {
+        "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-lg.jpg",
+        "type": "file",
+        "md5": "8951a7115ad5660eccdd8757a979c606"
+    },
+    {
+        "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-md.jpg",
+        "type": "file",
+        "md5": "581ef49b810e286be3ae9df5b622a7e8"
+    },
+    {
+        "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-sm.jpg",
+        "type": "file",
+        "md5": "6c9836d5729595312c814566a5b5b68c"
+    },
+    {
+        "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-xl.jpg",
+        "type": "file",
+        "md5": "e4e7d39d628d61ff4e4c7d397b7c2bac"
+    },
+    {
+        "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-xs.jpg",
+        "type": "file",
+        "md5": "ea4e90bdb534f9e3c36855aeb7d66e5a"
     },
     {
         "path": "media/website",
@@ -332,7 +382,12 @@
     {
         "path": "natural-language-processing-1-term-document-matrix.html",
         "type": "file",
-        "md5": "31027d256cbc685a31de7d34d0f4cddf"
+        "md5": "aa7bed993ecea0ef6b39fceed516f97a"
+    },
+    {
+        "path": "quantum-feature-space.html",
+        "type": "file",
+        "md5": "f5a68bfd12c534ac9a5260c5d4b304a7"
     },
     {
         "path": "robots.txt",
@@ -342,12 +397,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "e2a0457a55b2801245fb65d1b24d3995"
+        "md5": "ab0f027c66227b990c8dcb08aa34c635"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "bc432627a3ff28366f8828335e611511"
+        "md5": "03d0719d5db417744a3eaf1be16c3943"
     },
     {
         "path": "sitemap.xsl",
@@ -362,16 +417,16 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e8e09525fd7df009d54527688d808f69"
+        "md5": "bb77eb60179ba1b760915cc7e27f74e4"
     },
     {
         "path": "test-2.html",
         "type": "file",
-        "md5": "65921f46d180051d633dbec72647d623"
+        "md5": "3db40b9aef66f660e0858931e9e99924"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "e338ad6fffd891dd668ba852a0e7802f"
+        "md5": "e48112589e742cc0fdd3f258c27aa3a3"
     }
 ]

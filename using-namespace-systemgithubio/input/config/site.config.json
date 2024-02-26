@@ -154,7 +154,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii uuid-1704739216639-575333251",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -164,8 +164,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1704739216639-575333251",
-            "key": "publii-s3-key uuid-1704739216639-575333251",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -176,7 +176,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "publii-git-password uuid-1704739216639-575333251",
+            "password": "",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -186,7 +186,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token uuid-1704739216639-575333251",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -195,11 +195,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1704739216639-575333251"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1704739216639-575333251",
-            "token": "publii-netlify-token uuid-1704739216639-575333251"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -208,9 +208,9 @@
         },
         "manual": {
             "output": "catalog",
-            "outputDirectory": "D:\\Brian.RC\\Documents\\GitHub"
+            "outputDirectory": ""
         }
     },
     "theme": "simple",
-    "syncDate": 1704972470833
+    "syncDate": 1708906111412
 }
