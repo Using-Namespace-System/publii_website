@@ -3,7 +3,7 @@
     <title>Using-Namespace-System.github.io</title>
     <link href="https://using-namespace-system.github.io/feed.xml" rel="self" />
     <link href="https://using-namespace-system.github.io" />
-    <updated>2024-02-27T21:45:02-05:00</updated>
+    <updated>2024-02-28T06:30:00-05:00</updated>
     <author>
         <name>Brian Recktenwall-Calvet</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://using-namespace-system.github.io/quantum-feature-space.html"/>
         <id>https://using-namespace-system.github.io/quantum-feature-space.html</id>
 
-        <updated>2024-02-27T21:45:02-05:00</updated>
+        <updated>2024-02-28T06:30:00-05:00</updated>
             <summary>
                 <![CDATA[
                     init_mathjax = function() { if (window.MathJax) { // MathJax loaded MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS", useLabelIds: true } }, tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], displayMath: [ ['$$','$$'], ["\\[","\\]"] ], processEscapes: true, processEnvironments: true }, displayAlign: 'center', CommonHTML: { linebreaks: { automatic:&hellip;
@@ -242,6 +242,8 @@
 <div class="jp-InputPrompt jp-InputArea-prompt"> </div>
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>In an earlier project exploring early probabilistic methods of language processing, it became clear how massive the feature-space for word-vectors is. Modern needs to process large volumes of natural language don't scale well using early probabilistic methods for modeling language. In this project I am exploring the possibility of storing and processing large feature-spaces outside of classical computing.</p>
+<p>The repository for this project is still under construction but is located here:</p>
+<p><a href="https://github.com/Using-Namespace-System/qFeatureSpace">https://github.com/Using-Namespace-System/qFeatureSpace</a></p>
 <p>In that earlier project we showed how the angular distance between the high dimensional feature vectors of terms in a term-document matrix represented the syntactical (words that make sense close together) relationship between words. This angular distance can also be represented in a number between 0 and 1. In our calculation approaching one would be angles that are close together and zero would be a 90+ degree separation. This is referred to as cosine similarity. In that earlier project the similarities only landed between 0.1 and 0.0</p>
 <p>You can take a look at the previous project here:</p>
 <p><a href="https://using-namespace-system.github.io/natural-language-processing-1-term-document-matrix.html">https://using-namespace-system.github.io/natural-language-processing-1-term-document-matrix.html</a></p>
@@ -495,7 +497,7 @@
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <p>The top result is the result of our quantum simulation and the bottom result is the result of our classical computation.</p>
 <p>With various pairs of vectors with varying levels of similarity the results were consistent. Examples below.</p>
-<p>With a few adjustments to the normalization the accuracy increases two more digits, however the readability of the code is poor.</p>
+<p>In this experiment the accuracy beyond 3 figures seems unreliable. Beyond <span class="mi">10000000 shots the accuracy might increase but the computation time was unreasonable.</span></p>
 <p>I am still working on how best to explain why we get these results from simple amplitude embedding, a Hadamard gate, and a controlled swap operation. More information may be included later.</p>
 <p>The the logarithmically smaller storage and time complexity achieved within certain quantum algorithms paints a bright future for advancements in computing. Keep learning and experimenting.</p>
 <p>The papers below were core in informing my circuit for computing cosine similarity.</p>
