@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:///C:\Dev\publii_website\using-namespace-systemgithubio\preview/sitemap.xml
