@@ -112,22 +112,22 @@
     {
         "path": "/authors/brian-recktenwall-calvet/index.html",
         "type": "file",
-        "md5": "a866d7e99af19da5918c4af06ee6c42d"
+        "md5": "9239be4e97fa3bd7d0619eecec6fd760"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "1562db4049b61a249ab307e0a3f121e8"
+        "md5": "9751d87a30eebab076ffd09dfd3f091a"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ffd232b50fbba413f33e847212bb354c"
+        "md5": "783a25934856e97139d888619d1606dd"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "879451d8aa8f9b48731e7e5425939386"
+        "md5": "87577a2fd61141078dfc2cab7e4df307"
     },
     {
         "path": "media",
@@ -228,6 +228,16 @@
         "path": "/media/posts/4/responsive/175302418_10222315798297769_205315935505955406_n_c-xs.jpg",
         "type": "file",
         "md5": "ea4e90bdb534f9e3c36855aeb7d66e5a"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/MNISTMNISTqcnot0-3-2-1.gif",
+        "type": "file",
+        "md5": "787a1d8154524343fab23783f3608f3f"
     },
     {
         "path": "media/website",
@@ -387,7 +397,12 @@
     {
         "path": "quantum-feature-space.html",
         "type": "file",
-        "md5": "fa478e7f9bd1bf351bba6b7b951fe6ea"
+        "md5": "8cb24ae5a5e6dcd3495f8a0097fdccf9"
+    },
+    {
+        "path": "quantum-pre-processing-filters-for-machine-learning.html",
+        "type": "file",
+        "md5": "393d220a41a1505ab205f5eff3b23b1d"
     },
     {
         "path": "robots.txt",
@@ -402,7 +417,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9e5728b59d27ef56c6811201f4356d48"
+        "md5": "939f17db607c245489d8c45906973aa0"
     },
     {
         "path": "sitemap.xsl",
